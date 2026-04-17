@@ -24,7 +24,9 @@ brew install stanislavkozlovski/tap/dclaude
 
 ```bash
 dcodex
+# or
+dclaude
 ```
 
 > [!NOTE]
-> The first `dcodex` run can take around 60 seconds while Docker builds the image. Later runs should start much faster.
+> The very first `dcodex`/`dclaude` run can take around 60 seconds while Docker builds the image. Subsequent runs are instant.
