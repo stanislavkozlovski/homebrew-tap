@@ -2,6 +2,8 @@
 
 Homebrew tap for `stanislavkozlovski/dclaude`.
 
+> 👉 https://github.com/stanislavkozlovski/dclaude/
+
 Installs:
 
 - `dclaude`
