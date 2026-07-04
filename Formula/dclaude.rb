@@ -1,8 +1,8 @@
 class Dclaude < Formula
   desc "Run Claude Code and Codex inside Docker with same-path mounts"
   homepage "https://github.com/stanislavkozlovski/dclaude"
-  url "https://github.com/stanislavkozlovski/dclaude/releases/download/v0.1.42/dclaude-v0.1.42.tar.gz"
-  sha256 "c829e654c6e88f9956180ebc6fe7baa2d4d99dc8ee3e6c1641da72aebe00e707"
+  url "https://github.com/stanislavkozlovski/dclaude/releases/download/v0.1.43/dclaude-v0.1.43.tar.gz"
+  sha256 "5f8ecca606c5a82cbc3522f080d45dd33259de01f5aa9c89f6b61e67de439644"
   license :cannot_represent
 
   def install
